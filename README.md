@@ -67,7 +67,7 @@
 - 🌱 I’m currently learning **Rust**
 - 🦋 Nature lover!
 - 👀 Always willing to help and collaborate!
-- 👨‍💻 Like learning about different language and different systems, and how computers work in general!
+- 👨‍💻 Like learning different coding languages, maths, and how computers work in general!
 
 
 ###
