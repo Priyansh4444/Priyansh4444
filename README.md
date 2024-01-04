@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student, interested in Deep Learning!!</h2>
+<h1 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student, interested in Deep Learning!!</h1>
 
 ###
-
+<h2 align="left">Skills</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,9 +61,15 @@
 
 ###
 
+
+<h3 align="left">Fun Facts!</h3>
+
 - 🌱 I’m currently learning **Rust**
-- 👨‍💻 All of my projects are available at [https://github.com/Priyansh4444/](https://github.com/Priyansh4444/)
-- 📫 How to reach me **priyanshpokemon@gmail.com**
+- 🦋 Nature lover!
+- 👀 Always willing to help and collaborate!
+- 👨‍💻 Like learning about different language and different systems, and how computers work in general!
+
+
 ###
 
 <br clear="both">
