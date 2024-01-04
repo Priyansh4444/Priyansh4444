@@ -40,10 +40,10 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=pronsh&logo=discord&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:priyanshpokemon@gmail.com"style="text-decoration: none;" target="_blank">
+  <a href="mailto:priyanshpokemon@gmail.com" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/priyansh-shah-569b3b224/" target="_blank">
+  <a href="https://www.linkedin.com/in/priyansh-shah-569b3b224/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
