@@ -81,6 +81,6 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Rust**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Priyansh4444/](https://github.com/Priyansh4444/)<br><br>- 📫 How to reach me **priyanshpokemon@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning **Rust** <br><br>- 👨‍💻 All of my projects are available at [https://github.com/Priyansh4444/](https://github.com/Priyansh4444/)<br><br>- 📫 How to reach me **priyanshpokemon@gmail.com** </p>
 
 ###
