@@ -77,6 +77,7 @@
 ###
 
 <div align="center">
+  <h3>Profile Views!</h3>
   <img src="https://profile-counter.glitch.me/Priyansh4444/count.svg?"  />
 </div>
 
