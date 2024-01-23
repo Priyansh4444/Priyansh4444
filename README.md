@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="Rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
@@ -64,7 +66,7 @@
 
 <h3 align="left">Fun Facts!</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Web Development**
 - 🦋 Nature lover!
 - 👀 Always willing to help and collaborate!
 - 👨‍💻 Like learning different coding languages, maths, and how computers work in general!
