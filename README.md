@@ -38,6 +38,11 @@
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="Rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
+
 </div>
 
 ###
