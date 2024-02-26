@@ -41,6 +41,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />  
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
 
 </div>
