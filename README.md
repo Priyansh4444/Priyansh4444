@@ -73,7 +73,7 @@
 
 <h3 align="left">Fun Facts!</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **DSA**
 - 🦋 Nature lover!
 - 👀 Always willing to help and collaborate!
 - 👨‍💻 Like learning different coding languages, maths, and how computers work in general!
