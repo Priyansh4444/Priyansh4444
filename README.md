@@ -44,6 +44,10 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" height="30"/>
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" height="30" alt="Assembly logo"  />
 
 </div>
 
