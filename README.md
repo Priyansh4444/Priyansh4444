@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student, who is interested in Deep Learning and loves Rust!!</h1>
 
 ###
-<h2 align="left">Skills</h2>
+<!--<h2 align="left">Skills</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -48,8 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" height="30"/>
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" height="30" alt="Assembly logo"  />
+</div> -->
 
-</div>
 
 ###
 
