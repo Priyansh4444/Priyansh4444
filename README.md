@@ -77,10 +77,10 @@
 
 <h3 align="left">Fun Facts!</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Looking for Research Opportunities!
 - 🦋 Nature lover!
-- 👀 Always willing to help and collaborate!
-- 👨‍💻 Like learning different coding languages, maths, and how computers work in general!
+- 👀 Always willing to help!
+- 👨‍💻 Need to decrease my screentimme
 
 
 ###
