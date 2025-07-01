@@ -80,7 +80,7 @@
 - 🌱 Looking for Research Opportunities!
 - 🦋 Nature lover!
 - 👀 Always willing to help!
-- 👨‍💻 Need to decrease my screentimme
+- 👨‍💻 Need to decrease my screentime
 
 
 ###
