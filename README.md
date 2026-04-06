@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student, who is interested in Deep Learning and loves Rust!!</h1>
+<h1 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student!</h1>
 
 ###
 
