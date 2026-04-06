@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Priyansh  and I'm a Computer Science student!</h1>
+<h1 align="left">Pronsh; Attempting to create useful software 💝</h1>
 
 ###
 
