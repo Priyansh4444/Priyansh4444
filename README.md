@@ -19,9 +19,9 @@
 
 <h3 align="left">Fun Facts!</h3>
 
-- 🌱 Looking for Research Opportunities!
+- 🌱 Hired, but always open to chat!
 - 🦋 Nature lover!
-- 👀 Always willing to help!
+- 👀 Always willing to help
 - 👨‍💻 Need to decrease my screentime
 
 
